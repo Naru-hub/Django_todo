@@ -1,11 +1,14 @@
 {% extends 'todoapp/base.html' %} {% block content %}
-<h1>Todoリスト</h1>
+<div class="header">
+  <h1>{{request.user}}のタスク</h1>
+</div>
+<!-- <h1>Todoリスト</h1>
 <a href="{% url 'create-task' %}">タスクの追加</a>
 
 <form method="GET">
   <input type="text" name="search" value="{{search}}" />
   <input type="submit" value="検索" />
-</form>
+</form> -->
 
 <table>
   <tr>
@@ -22,7 +25,7 @@
 </table>
 <div class="loginAndLogout">
   {% if request.user.is_authenticated %}
-  <p>{{request.user}}</p>
+  <!-- <p>{{request.user}}</p> -->
   <form action="{% url 'logout' %}" method="post">
     {% csrf_token %}
     <button type="submit">ログアウト</button>

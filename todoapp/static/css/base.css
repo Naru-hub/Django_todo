@@ -59,3 +59,55 @@ h1 {
   margin-right: 10px;
 }
 
+.loginAndLogout {
+  padding: 20px;
+}
+
+.editButton {
+  color: darkgreen;
+  padding-right: 10px;
+  font-size: 25px;
+}
+
+.deleteButton {
+  color: crimson;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/* タスク検索と追加のフォーム */
+.searchWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+}
+
+.searchInput {
+  height: 24px;
+  width: 250px;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 2px 6px;
+}
+
+.searchButton {
+  border: 1px solid gray;
+  padding: 4px 10px;
+  background-color: #fafafa;
+  border-radius: 5px;
+  color: grey;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.4s;
+}
+
+.searchButton:hover {
+  background-color: grey;
+  color: #fafafa;
+}
+
+
+
+

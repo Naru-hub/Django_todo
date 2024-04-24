@@ -63,6 +63,22 @@ h1 {
   padding: 20px;
 }
 
+.logoutButton {
+  border: 1px solid grey;
+  padding: 4px 10px;
+  background-color: #fafafa;
+  border-radius: 5px;
+  color: grey;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.4s;
+}
+
+.logoutButton:hover {
+  background-color: grey;
+  color: #fafafa;
+}
+
 .editButton {
   color: darkgreen;
   padding-right: 10px;

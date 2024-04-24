@@ -43,7 +43,7 @@
   <!-- <p>{{request.user}}</p> -->
   <form action="{% url 'logout' %}" method="post">
     {% csrf_token %}
-    <button type="submit">ログアウト</button>
+    <button type="submit" class="logoutButton">ログアウト</button>
   </form>
   {% else %}
   <a href="{% url 'login' %}">ログイン</a>

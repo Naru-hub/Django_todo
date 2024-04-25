@@ -1,7 +1,9 @@
 {% extends 'todoapp/base.html' %} {% block content %}
-<a href="{% url 'tasks' %}">戻る</a>
-<form action="" method="post">
+<div class="header">
+  <a href="{% url 'tasks' %}" style="color: white">戻る</a>
+</div>
+<form action="" method="post" style="padding: 25px">
   {% csrf_token %} {{form.as_p}}
-  <input type="submit" value="追加" />
+  <input type="submit" value="追加" class="buttonDecoration" />
 </form>
 {% endblock content %}

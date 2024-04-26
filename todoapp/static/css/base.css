@@ -114,6 +114,23 @@ h1 {
   color: lightseagreen;
 }
 
+.deleteConfirmButton {
+  border: 1px solid red;
+  padding: 4px 10px;
+  background-color: #fafafa;
+  border-radius: 5px;
+  color: grey;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.4s;
+  height: 30px !important;
+}
+
+.deleteConfirmButton:hover {
+  background-color: red;
+  color: #fafafa;
+}
+
 label {
   display: block;
   font-weight: bold;
@@ -140,3 +157,4 @@ select {
   border-radius: 5px;
   height: 23px;
 }
+

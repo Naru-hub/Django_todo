@@ -5,7 +5,7 @@
 
 <form method="POST" style="padding: 25px">
   {% csrf_token %}
-  <p>{{task}}を本当に削除しますか？</p>
+  <p><b>{{task}}</b>を本当に削除しますか？</p>
   <input type="submit" value="削除" class="deleteConfirmButton" />
 </form>
 {% endblock content %}

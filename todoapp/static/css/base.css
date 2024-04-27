@@ -158,3 +158,19 @@ select {
   height: 23px;
 }
 
+.accountWrapper {
+  padding: 10px 25px 25px 25px;
+}
+
+.accountWrapper p {
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+.accountWrapper a {
+  color: rgba(39, 39, 190, 0.825) !important;
+}
+
+hr {
+  border-top: 2px dashed grey;
+}

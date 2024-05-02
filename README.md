@@ -7,24 +7,23 @@ Djangoの学習のためUdemy教材にてTODOアプリを作成
   <details><summary>TODO新規作成</summary>
     
   ### TODOを新規作成フォームにて作成することが可能
-  <img width="822" alt="image" src="https://github.com/Naru-hub/react-todo-app/assets/81672054/abb063cc-8cce-4c4a-b945-c5406f4e4191">
+  <img width="980" alt="image" src="https://github.com/Naru-hub/react-todo-app/assets/81672054/abb063cc-8cce-4c4a-b945-c5406f4e4191">
   </details>
   <details><summary>TODO詳細表示</summary>
 
   ### TODOを詳細ページにて確認することが可能
-  <img width="844" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/5111362e-5135-4dee-a8cb-f93eaba6f295">
+  <img width="980" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/5111362e-5135-4dee-a8cb-f93eaba6f295">
   </details>
   <details><summary>TODO編集機能</summary>
 
   ### TODOを編集フォームにて編集することが可能
-  
- 
+  <img width="980" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/0aa35276-652b-4153-ab5c-21797256fd1a"> 
   </details>
   <details><summary>TODO削除機能</summary>
 
   ### TODOを削除することが可能
-  
- 
+  ![image](https://github.com/Naru-hub/Django_todo/assets/81672054/eb70ac8b-7001-4aa5-a982-4db4d567bf6d)
+  <img width="980" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/97091429-0190-4af0-bf4e-79709e91e4e1">
   </details>
 
 - TODO検索

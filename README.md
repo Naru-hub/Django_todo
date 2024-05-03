@@ -30,15 +30,17 @@ Djangoの学習のためUdemy教材にてTODOアプリを作成
   <details><summary>TODO検索機能</summary>
 
   ### TODOを検索することが可能
-  
+  <img width="980" alt="スクリーンショット 2024-05-03 19 50 32" src="https://github.com/Naru-hub/Django_todo/assets/81672054/6d32870e-9431-4e3a-a123-9a2451a2648a">
+  <img width="980" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/47ce18f2-f705-4726-b05f-bba08ac9b3ba">
  
   </details>
 - ユーザー新規登録機能
   <details><summary>ユーザー新規登録機能</summary>
 
   ### ユーザーを作成することが可能
-  
- 
+  <img width="892" alt="スクリーンショット 2024-05-03 19 56 30" src="https://github.com/Naru-hub/Django_todo/assets/81672054/3df74344-eb87-42f3-a00f-a310d1f761c3">
+  <img width="928" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/807fda93-d2d0-4e10-92db-bb6c95a2eac6">
+
   </details>
 - ユーザーログイン機能
   <details><summary>ユーザーログイン機能</summary>

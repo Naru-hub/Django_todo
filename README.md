@@ -51,7 +51,15 @@ Djangoの学習のためUdemy教材にてTODOアプリを作成
   <details><summary>TODO完了後表示</summary>
 
   ### TODO完了後は取り消し線と完了マークが表示される
-  <img width="902" alt="スクリーンショット 2024-05-04 22 01 03" src="https://github.com/Naru-hub/Django_todo/assets/81672054/17f28e90-f846-434d-bcae-d78517695fa1">
+  <img width="980" alt="スクリーンショット 2024-05-04 22 01 03" src="https://github.com/Naru-hub/Django_todo/assets/81672054/17f28e90-f846-434d-bcae-d78517695fa1">
   </details>
-- 管理者ページ  
+- 管理者ページ
+  <details><summary>管理者ページ</summary>
+
+  ### TODO管理
+  <img width="1440" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/a603cb5f-35c0-400b-b6c9-698582fd9a7d">
+  
+  ### ユーザー管理
+  <img width="1436" alt="image" src="https://github.com/Naru-hub/Django_todo/assets/81672054/1ce906d3-3f27-40b0-927a-593adaa84238">
+  </details>
 
